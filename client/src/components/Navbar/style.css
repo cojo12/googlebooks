@@ -2,11 +2,11 @@ nav.navbar.navbar-default {
   margin-bottom: 0;
 }
 .navbar { 
-  background: #E98074;
+  background: black;
 }
 
 .nav-link, .navbar-brand { 
-  color: #E5E5E5;
+  color: white;
   font-size: x-large;
 }
 

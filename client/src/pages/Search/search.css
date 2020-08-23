@@ -1,5 +1,5 @@
 .searchTitle { 
-  color: #E85A4F;
+  color: black;
   text-decoration: underline;
 }
 
@@ -28,6 +28,6 @@ margin:0;
   height: 40px;
   margin-left: 0;
   background-color: #8E8D8A;
-  color: #E98074;
+  color: black;
   font-weight: bolder;
 }
